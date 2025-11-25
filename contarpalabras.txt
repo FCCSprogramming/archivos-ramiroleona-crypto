@@ -1,0 +1,5 @@
+en este archivo se contaran la cantidad de palabras
+incluso si saltamos de linea
+el programa debe ser capaz de contabilizar
+y entregar el resultado final 
+de acuerdo con mis aproximaciones, hay un total de 37 palabras

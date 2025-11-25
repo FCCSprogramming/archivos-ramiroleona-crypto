@@ -1,0 +1,5 @@
+digamos que en este archivo buscaremos la palabra carne
+carne de res
+carne de pollo 
+carne de pato 
+pato pato ganso 
